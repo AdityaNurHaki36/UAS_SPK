@@ -10,3 +10,5 @@ Postman : Thunder Client
 Method POST
 
 Tampilan data yang telah disorting berdasarkan Score dengan WP
+![Uploading Cuplikan layar 2023-12-20 103109.png…]()
+
